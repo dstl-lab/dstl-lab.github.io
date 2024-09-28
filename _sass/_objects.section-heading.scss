@@ -1,0 +1,10 @@
+/*------------------------------------*\
+    #SECTION-HEADING
+\*------------------------------------*/
+
+// Styles for section headings, which are all bold and all lowercase
+.o-section-heading {
+  @include font-size(24px);
+  text-transform: lowercase;
+  letter-spacing: -0.2px;
+}

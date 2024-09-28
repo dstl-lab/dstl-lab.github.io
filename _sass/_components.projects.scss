@@ -1,0 +1,45 @@
+/*------------------------------------*\
+    #PROJECTS
+\*------------------------------------*/
+
+/**
+ * These provide a brief intro to the project and are shown on the homepage.
+ */
+
+.project {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: $spacing-unit;
+
+  @include media-query(lap-and-up) {
+    flex-direction: row;
+  }
+}
+
+.project__img {
+  @include media-query(lap-and-up) {
+    margin-right: $spacing-unit--small;
+    flex: 0 0 144px;
+  }
+}
+
+.project__name {
+  display: inline;
+  @include font-size($inuit-base-font-size);
+}
+
+.project__excerpt {
+  display: inline;
+}
+
+.project__links {
+  @include font-size(12px);
+}
+
+.project__link {
+  @include font-weight(bold);
+}
+
+.project__link--spacer {
+  margin: 0 $spacing-unit--tiny;
+}

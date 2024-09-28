@@ -1,0 +1,91 @@
+# Publications listed on homepage in order of appearance in this file.
+#
+# Note that >- is the chomping folded block literal in YAML:
+# http://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html
+- year: 2023
+  title: >-
+    From "Ban It Till We Understand It" to "Resistance is Futile": How
+    University Programming Instructors Plan to Adapt as More Students Use AI
+    Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot
+  authors: >-
+    Sam Lau, Philip J. Guo
+  venue: >-
+    ACM Conference on International Computing Education Research (ICER)
+  blurb: >-
+    Interviews with a diverse range of instructors reveal a broad range of
+    perspectives on how to approach effective teaching with – or in spite of
+    – AI coding tools.
+  pdf: /pubs/cs-instructors-adapting-to-chatgpt-copilot-ai-tools_ICER-2023.pdf
+- year: 2023
+  title: >-
+    Teaching Data Science by Visualizing Data Table Transformations: Pandas
+    Tutor for Python, Tidy Data Tutor for R, and SQL Tutor
+  authors: >-
+    Sam Lau*, Sean Kross*, Eugene Wu, Philip J. Guo (*equal contribution)
+  venue: >-
+    International Workshop on Data Systems Education (DataEd)
+  blurb: >-
+    The Pandas/Tidy Data/SQL Tutor tools automatically create diagrams for data
+    science code.
+  pdf: /pubs/Pandas_R_SQL_Tutors-DataEd_2023.pdf
+- year: 2022
+  title: >-
+    Codehound: Helping Instructors Track Pedagogical Code Dependencies in
+    Course Materials
+  authors: >-
+    Sam Lau, Philip J. Guo
+  venue: >-
+    ACM SIGPLAN SPLASH-E Symposium (SPLASH-E)
+  blurb: >-
+    Tracking code use within course materials enables tools that give automated
+    help while refactoring a course.
+  pdf: /pubs/CodeHound_SPLASHE-2022.pdf
+- year: 2022
+  title: >-
+    The Challenges of Evolving Technical Courses at Scale: Four Case Studies of
+    Updating Large Data Science Courses
+  authors: >-
+    Sam Lau, Justin Eldridge, Shannon Ellis, Aaron Fraenkel, Marina Langlois,
+    Suraj Rampure, Janine Tiefenbruck, Philip J. Guo
+  venue: >-
+    ACM Conference on Learning @ Scale (L@S)
+  blurb: >-
+    Instructors of large technical courses run into major logistical challenges
+    that take time away from teaching.
+  pdf: /pubs/Challenges-of-Evolving-Data-Courses_L@S-2022.pdf
+- year: 2022
+  title: >-
+    How Computer Science and Statistics Instructors Approach Data Science
+    Pedagogy Differently: Three Case Studies
+  authors: >-
+    Sam Lau, Deborah Nolan, Joseph Gonzalez, Philip J. Guo
+  venue: >-
+    ACM Technical Symposium on Computer Science Education (SIGCSE)
+  blurb: >-
+    Real-world case studies show tradeoffs in balancing computer science and
+    statistics in data science teaching.
+  pdf: /pubs/How-CS-Stat-Approach-Data-Science_SIGCSE-2022.pdf
+- year: 2021
+  title: >-
+    TweakIt: Supporting End-User Programmers Who Transmogrify Code
+  authors: >-
+    Sam Lau, Sruti Srinivasa Ragavan, Ken Milne, Titus Barik, Advait Sarkar
+  venue: >-
+    ACM Conference on Human Factors in Computing Systems (CHI)
+  blurb: >-
+    Placing live previews of code outputs directly in spreadsheets enables data
+    analysts to tweak and reuse Python examples without needing Python
+    expertise.
+  pdf: /pubs/tweakit_CHI-2021.pdf
+- year: 2020
+  title: >-
+    The Design Space of Computational Notebooks: An
+    Analysis of 60 Systems in Academia and Industry
+  authors: >-
+    Sam Lau, Ian Drosos, Julia M. Markel, Philip J. Guo
+  venue: >-
+    IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+  blurb: >-
+    Computational notebooks vary widely in data import, code editing, code
+    execution, and output format.
+  pdf: /pubs/computational-notebooks-design-space_VLHCC-2020.pdf

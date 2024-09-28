@@ -1,0 +1,37 @@
+{%- comment -%}
+This partial requires a param: `project`
+{%- endcomment -%}
+
+{%- assign project = include.project -%}
+<div class="project">
+  <amp-img
+    media="(min-width: 45em)"
+    src="{{ project.image }}"
+    class="project__img"
+    layout="responsive"
+    ></amp-img>
+
+  <div class="project__info">
+    <h3 class="project__name">{{ project.title }}</h3>
+    <p class="project__excerpt">
+      {{ project.excerpt }}
+    </p>
+
+    {%- if project.links -%}
+      <div class="project__links">
+        {%- for link in project.links -%}
+          <a class="project__link"
+            href="{{ link.url }}"
+            {%- if link.url contains '://' -%}
+              target="_blank"
+            {%- endif -%}
+          >{{ link.name }}</a>
+
+          {% if forloop.last == false %}
+            <span class="project__link--spacer"></span>
+          {% endif %}
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  </div>
+</div>

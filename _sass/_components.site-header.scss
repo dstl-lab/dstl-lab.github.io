@@ -1,0 +1,35 @@
+/*------------------------------------*\
+    #SITE-HEADER
+\*------------------------------------*/
+
+/**
+ * The site nav is a series of links separated by spacers.
+ *
+ * 1. Flex the links to display in a row
+ * 2. Lowercase links for the a e s t h e t i c
+ */
+.site-nav {
+  margin-bottom: $spacing-unit--large;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+
+  display: flex; // [1]
+
+  @include font-size(20px);
+  text-transform: lowercase; // [2]
+
+  // shrink margin on mobile
+  @include media-query(palm) {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.nav__item {
+  color: $inuit-base-text-color;
+  letter-spacing: -0.5px;
+}
+
+.nav__spacer {
+  margin-left: $spacing-unit--small;
+  margin-right: $spacing-unit--small;
+}

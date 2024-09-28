@@ -1,0 +1,67 @@
+# List of teaching things
+
+- univ: UC San Diego
+  courses:
+  - code: DSC 80
+    name: Practice and Application of Data Science
+    terms:
+    - term: 24sp
+      url: https://dsc-courses.github.io/dsc80-2023-fa/
+    - term: 23fa
+      url: https://dsc-courses.github.io/dsc80-2023-fa/
+  - code: DSC 106
+    name: Data Visualization
+    terms:
+    - term: 24wi
+      url: https://dsc106.com/
+  # - code: DSC 10
+  #   name: Principles of Data Science
+  #   terms:
+  #   - term: 22su
+  #     url: https://dsc-courses.github.io/dsc10-2022-su/
+  # - code: COGS 18
+  #   name: Introduction to Python
+  #   ta_terms:
+  #   - term: 22wi
+  # - code: COGS 124
+  #   name: HCI Technical Systems Research
+  #   ta_terms:
+  #   - term: 20fa
+  # - code: COGS 108
+  #   name: Data Science in Practice
+  #   ta_terms:
+  #   - term: 20wi
+  #   - term: 19fa
+  #   - term: 19wi
+  # - code: COGS 10
+  #   name: Cognitive Consequences of Technology
+  #   ta_terms:
+  #   - term: 19sp
+- univ: UC Berkeley
+  courses:
+  - code: Data 100
+    name: Principles and Techniques of Data Science
+    terms:
+    - term: 19su (first summer offering)
+      url: https://ds100.org/su19/
+    # ta_terms:
+    # - term: 17fa
+    # - term: 17sp
+  - code: Data 8
+    name: Foundations of Data Science
+    terms:
+    - term: 17su (first summer offering)
+      url: http://data8.org/su17/
+    # ta_terms:
+    # - term: 16fa
+    # - term: 16sp
+    # - term: 15fa
+  # - code: CS 169
+  #   name: Software Engineering
+  #   ta_terms:
+  #   - term: 15sp
+  # - code: CS 61AS
+  #   name: Structure and Interpretation of Computer Programs
+  #   ta_terms:
+  #   - term: 14fa
+  #   - term: 14sp

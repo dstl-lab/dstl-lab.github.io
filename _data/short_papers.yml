@@ -1,0 +1,28 @@
+# Publications listed on homepage in order of appearance in this file.
+#
+# Note that >- is the chomping folded block literal in YAML:
+# http://blogs.perl.org/users/tinita/2018/03/strings-in-yaml---to-quote-or-not-to-quote.html
+- year: 2020
+  title: >-
+    Data Theater: A Live Programming Environment for Prototyping Data-Driven
+    Explorable Explanations
+  authors: >-
+    Sam Lau, Philip Guo
+  venue: >-
+    Workshop on Live Programming (LIVE)
+  blurb: >-
+    Separating logic from presentation simplifies the process of creating
+    explorable explanations.
+  pdf: /pubs/Data-Theater-prototyping-explorable-explanations_LIVE-2020.pdf
+- year: 2019
+  title: >-
+    Experiment Reconstruction Reduces Fixation on Surface Details of
+    Explanations
+  authors: >-
+    Sam Lau, Tricia Ngoon, Vineet Pandey, Scott Klemmer
+  venue: >-
+    Poster in ACM Conference on Creativity and Cognition (C&C)
+  blurb: >-
+    Asking people to mentally recreate an experiment briefly reduces the allure
+    of scientific terminology.
+  pdf: /pubs/Experiment-reconstruction_CnC-2019.pdf

@@ -1,0 +1,16 @@
+/*------------------------------------*\
+    #WRAPPERS
+\*------------------------------------*/
+
+// Sets a max-width so that the stuff inside doesn't get stretched out too much
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-right: $spacing-unit--small;
+    padding-left:  $spacing-unit--small;
+
+    @include media-query(lap-and-up) {
+        padding-right: $spacing-unit;
+        padding-left:  $spacing-unit;
+    }
+}

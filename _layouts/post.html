@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<main class="content" role="main">
+  <article class="post wrapper">
+    <div class="post-meta">
+      <h1 class="post-meta__title">{{ page.title }}</h1>
+
+      <p class="post-meta__excerpt"><em>{{ page.excerpt }}</em></p>
+
+      {%- if page.links -%}
+        <div class="post-meta__links">
+          {%- for link in page.links -%}
+            <a class="post-meta__link"
+              href="{{ link.url }}"
+              target="_blank"
+              {%- if link.url contains '://' -%}
+                target="_blank"
+              {%- endif -%}
+            >{{ link.name }}</a>
+
+            {% if forloop.last == false %}
+            <span class="project__link--spacer"></span>
+            {% endif %}
+          {%- endfor -%}
+        </div>
+      {%- endif -%}
+    </div>
+
+    <section class="post-content">
+      {{ content }}
+    </section>
+  </article>
+</main>
+
+{%- include footer.html -%}
