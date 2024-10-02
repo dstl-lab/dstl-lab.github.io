@@ -22,11 +22,12 @@ discoveries in an rapidly-evolving field, all under the constraints of their
 academic calendar.
 {% endcomment %}
 
-**What we do:** Our group applies methods from Human-Computer Interaction (HCI)
-to understand how instructors use software by conducting interviews and
-usability studies. We also build and maintain software tools like [Pandas
+**What we do:** Our group applies methods from [Human-Computer Interaction
+(HCI)][hci] to understand how instructors use software by conducting interviews
+and usability studies. We also build and maintain software tools like [Pandas
 Tutor][pt], used by over 20,000 people per year.
 
+[hci]: https://www.interaction-design.org/literature/topics/human-computer-interaction
 [pt]: https://pandastutor.com/
 
 **Who we are:** Our group is led by professor [Samuel Lau][sam] in the
@@ -36,9 +37,9 @@ of undergraduate students:
 <ul class="team-list">
   <li>Christopher Lum</li>
   <li>Ylesia Wu</li>
+  <li>Guoxuan (Jason) Xu</li>
   <li>Andrew Yang</li>
   <li>Qirui (Sara) Zheng</li>
-  <li>Guoxuan (Jason) Xu</li>
 </ul>
 
 [sam]: https://www.samlau.me/
