@@ -13,8 +13,8 @@ Applications to join the DSTL Lab are now open for Fall 2024! We invite
 undergraduate students of all years to apply. Here's what to expect.
 
 **Info session:** We held an information session from 2-3pm on October 10th,
-2024 in the HDSI MPR. Thanks to those of you who came out! The recording is
-available here: https://youtu.be/e2-H61iNEtY
+2024 in the HDSI MPR. Thanks to those of you who came out! [The recording is
+available here](https://youtu.be/e2-H61iNEtY)
 
 **The application process:** Written applications are due by 11:59pm October 11.
 We will interview candidates between October 16-18, and final decisions will be
