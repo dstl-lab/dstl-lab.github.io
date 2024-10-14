@@ -5,9 +5,10 @@ permalink: /apply
 ---
 
 <p class="notice apply-banner">
-Applications for Fall 2024 are due at 11:59pm, October 11th, 2024.
-<a href="https://forms.gle/Xpez96nbGYmPjYF8A" target="_blank"><button class="apply-button">Apply here!</button></a>
+Applications for Fall 2024 are now closed. Thanks for applying!
 </p>
+
+<!-- <a href="https://forms.gle/Xpez96nbGYmPjYF8A" target="_blank"><button class="apply-button">Apply here!</button></a> -->
 
 Applications to join the DSTL Lab are now open for Fall 2024! We invite
 undergraduate students of all years to apply. Here's what to expect.
