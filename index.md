@@ -38,7 +38,7 @@ of undergraduate students:
   <li>Christopher Lum</li>
   <li>Ylesia (Yi Xing) Wu</li>
   <li>Guoxuan (Jason) Xu</li>
-  <li>Andrew Yang</li>
+  <li>Andrew Hudson Yang</li>
   <li>Qirui (Sara) Zheng</li>
 </ul>
 
