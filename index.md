@@ -41,6 +41,7 @@ of undergraduate students:
   <li>Andrew Hudson Yang</li>
   <li>Qirui (Sara) Zheng</li>
   <li>Ayush Shah</li>
+  <li>Gabriel Cha</li>
 </ul>
 
 [sam]: https://www.samlau.me/
