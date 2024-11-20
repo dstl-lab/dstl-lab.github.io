@@ -36,7 +36,7 @@ of undergraduate students:
 
 <ul class="team-list">
   <li>Christopher Lum</li>
-  <li>Ylesia Wu</li>
+  <li>Ylesia (Yi Xing) Wu</li>
   <li>Guoxuan (Jason) Xu</li>
   <li>Andrew Yang</li>
   <li>Qirui (Sara) Zheng</li>
