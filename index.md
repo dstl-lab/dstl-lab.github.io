@@ -40,6 +40,7 @@ of undergraduate students:
   <li>Guoxuan (Jason) Xu</li>
   <li>Andrew Hudson Yang</li>
   <li>Qirui (Sara) Zheng</li>
+  <li>Gabriel Cha</li>
 </ul>
 
 [sam]: https://www.samlau.me/
