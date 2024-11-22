@@ -43,6 +43,7 @@ of undergraduate students:
   <li>Ayush Shah</li>
   <li>Gabriel Cha</li>
   <li>Achintya Rai</li>
+  <li>Abhi Sathvika Goriparthy</li>
 </ul>
 
 [sam]: https://www.samlau.me/
