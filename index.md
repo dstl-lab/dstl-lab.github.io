@@ -35,7 +35,7 @@ Halıcıoğlu Data Science Institute at UC San Diego and a small (but mighty!) t
 of undergraduate students:
 
 <ul class="team-list">
-  <li>Christopher Lum</li>
+  <li>Christopher Lum 😁</li>
   <li>Ylesia (Yi Xing) Wu</li>
   <li>Guoxuan (Jason) Xu</li>
   <li>Andrew Hudson Yang</li>
@@ -45,6 +45,7 @@ of undergraduate students:
   <li>Achintya Rai</li>
   <li>Abhi Sathvika Goriparthy</li>
   <li>Owen Miller</li>
+  <li>Michelle Hong</li>
 </ul>
 
 [sam]: https://www.samlau.me/
