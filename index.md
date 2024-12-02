@@ -46,6 +46,7 @@ of undergraduate students:
   <li>Abhi Sathvika Goriparthy</li>
   <li>Owen Miller</li>
   <li>Michelle Hong</li>
+  <li>Parna Praveen</li>
 </ul>
 
 [sam]: https://www.samlau.me/
