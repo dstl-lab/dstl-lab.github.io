@@ -44,6 +44,7 @@ of undergraduate students:
   <li>Gabriel Cha</li>
   <li>Achintya Rai</li>
   <li>Abhi Sathvika Goriparthy</li>
+  <li>Owen Miller</li>
   <li>Michelle Hong</li>
 </ul>
 
