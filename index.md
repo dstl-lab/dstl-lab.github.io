@@ -44,6 +44,7 @@ of undergraduate students:
   <li>Gabriel Cha</li>
   <li>Achintya Rai</li>
   <li>Abhi Sathvika Goriparthy</li>
+  <li>Parna Praveen</li>
 </ul>
 
 [sam]: https://www.samlau.me/
