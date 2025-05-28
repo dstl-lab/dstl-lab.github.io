@@ -4,8 +4,7 @@ title: The Data Science Teaching and Learning Lab
 permalink: /
 ---
 
-🎉 Our lab is currently recruiting undergraduate students! Applications are due
-at 11:59pm, October 11th, 2024. Please see our [Apply page](/apply) for more details.
+Come to our end-of-year showcase on **Friday, June 6, from 11am to 12pm in CSE 2154**!
 {: .notice }
 
 The Data Science Teaching and Learning Lab (DSTL, pronounced "distill") at UCSD
@@ -35,18 +34,23 @@ Halıcıoğlu Data Science Institute at UC San Diego and a small (but mighty!) t
 of undergraduate students:
 
 <ul class="team-list">
-  <li>Christopher Lum 😁</li>
   <li>Ylesia (Yi Xing) Wu</li>
-  <li>Guoxuan (Jason) Xu</li>
   <li>Andrew Hudson Yang</li>
-  <li>Qirui (Sara) Zheng</li>
+  <li>Owen Miller</li>
   <li>Ayush Shah</li>
-  <li>Gabriel Cha</li>
   <li>Achintya Rai</li>
   <li>Abhi Sathvika Goriparthy</li>
-  <li>Owen Miller</li>
   <li>Michelle Hong</li>
   <li>Parna Praveen</li>
+</ul>
+
+Lab alumni and former members:
+
+<ul class="team-list">
+  <li>Christopher Lum 😁</li>
+  <li>Guoxuan (Jason) Xu</li>
+  <li>Qirui (Sara) Zheng</li>
+  <li>Gabriel Cha</li>
 </ul>
 
 [sam]: https://www.samlau.me/

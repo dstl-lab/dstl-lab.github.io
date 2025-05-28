@@ -5,7 +5,7 @@ permalink: /apply
 ---
 
 <p class="notice apply-banner">
-Applications for Fall 2024 are now closed. Thanks for applying!
+Applications for Fall 2024 are now closed. Our next recruitment will happen at the start of Fall 2025.
 </p>
 
 <!-- <a href="https://forms.gle/Xpez96nbGYmPjYF8A" target="_blank"><button class="apply-button">Apply here!</button></a> -->
