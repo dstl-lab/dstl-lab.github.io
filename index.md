@@ -41,16 +41,16 @@ of undergraduate students:
   <li>Achintya Rai</li>
   <li>Abhi Sathvika Goriparthy</li>
   <li>Michelle Hong</li>
-  <li>Parna Praveen</li>
 </ul>
 
 Lab alumni and former members:
 
 <ul class="team-list">
   <li>Christopher Lum 😁</li>
-  <li>Guoxuan (Jason) Xu</li>
-  <li>Qirui (Sara) Zheng</li>
   <li>Gabriel Cha</li>
+  <li>Guoxuan (Jason) Xu</li>
+  <li>Parna Praveen</li>
+  <li>Qirui (Sara) Zheng</li>
 </ul>
 
 [sam]: https://www.samlau.me/
