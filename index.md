@@ -4,8 +4,11 @@ title: The Data Science Teaching and Learning Lab
 permalink: /
 ---
 
-Come to our end-of-year showcase on **Friday, June 6, from 11am to 12pm in CSE 2154**!
+Thanks to those who came to our end-of-year showcase on Friday, June 6, 2025.
+Although we didn't record the showcase, [the slides are available here][slides].
 {: .notice }
+
+[slides]: https://docs.google.com/presentation/d/16P53-4IwcPSB7odugjL5Os5JyOCqRlImbf6GZAYs_ao/edit?usp=sharing
 
 The Data Science Teaching and Learning Lab (DSTL, pronounced "distill") at UCSD
 conducts research studies and prototypes novel tools for teaching and learning
