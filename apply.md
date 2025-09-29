@@ -4,7 +4,7 @@ title: 📝 Join the DSTL Lab
 permalink: /apply
 ---
 
-<!-- <a href="https://forms.gle/Xpez96nbGYmPjYF8A" target="_blank"><button class="apply-button">Apply here!</button></a> -->
+<a href="https://forms.gle/ELkmfWePmnyveKUdA" target="_blank"><button class="apply-button">Apply here!</button></a>
 
 Applications to join the DSTL Lab are now open for Fall 2025! We invite
 undergraduate and Masters students of all years to apply. Here's what to expect.
