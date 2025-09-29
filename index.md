@@ -4,8 +4,9 @@ title: The Data Science Teaching and Learning Lab
 permalink: /
 ---
 
-Thanks to those who came to our end-of-year showcase on Friday, June 6, 2025.
-Although we didn't record the showcase, [the slides are available here][slides].
+Undergraduate or Masters student at UCSD? Join our lab!
+We will host an info session on Oct 2 and applications are due 11:59pm on Oct 3.
+Please check out our [apply page](apply) for more details.
 {: .notice }
 
 [slides]: https://docs.google.com/presentation/d/16P53-4IwcPSB7odugjL5Os5JyOCqRlImbf6GZAYs_ao/edit?usp=sharing
@@ -34,26 +35,27 @@ Tutor][pt], used by over 20,000 people per year.
 
 **Who we are:** Our group is led by professor [Samuel Lau][sam] in the
 Halıcıoğlu Data Science Institute at UC San Diego and a small (but mighty!) team
-of undergraduate students:
+of students:
 
 <ul class="team-list">
-  <li>Ylesia (Yi Xing) Wu</li>
-  <li>Andrew Hudson Yang</li>
-  <li>Owen Miller</li>
+  <li>Devon Tao (1st year HDSI PhD)</li>
+  <li>Andrew Hudson Yang (Project Lead)</li>
+  <li>Sathvika Goriparthy (Project Lead)</li>
   <li>Ayush Shah</li>
   <li>Achintya Rai</li>
-  <li>Abhi Sathvika Goriparthy</li>
   <li>Michelle Hong</li>
 </ul>
 
 Lab alumni and former members:
 
 <ul class="team-list">
-  <li>Christopher Lum 😁</li>
   <li>Gabriel Cha</li>
-  <li>Guoxuan (Jason) Xu</li>
+  <li>Christopher Lum</li>
+  <li>Owen Miller</li>
   <li>Parna Praveen</li>
+  <li>Ylesia (Yi Xing) Wu</li>
+  <li>Guoxuan (Jason) Xu</li>
   <li>Qirui (Sara) Zheng</li>
 </ul>
 
-[sam]: https://www.samlau.me/
+[sam]: https://lau.ucsd.edu
