@@ -3,7 +3,8 @@ layout: post
 title: 📝 Join the DSTL Lab
 permalink: /apply
 ---
-
+We are no longer accepting applications for the DSTL Lab this year. Thank you for your interest, and stay tuned for when applications open again!
+{% comment %}
 <a href="https://forms.gle/ELkmfWePmnyveKUdA" target="_blank"><button class="apply-button">Apply here!</button></a>
 
 Applications to join the DSTL Lab are now open for Fall 2025! We invite
@@ -38,3 +39,5 @@ separate projects. We'll meet once per week to update each other on project
 status. Our projects this year will be broadly centered around using GenAI for
 teaching programming and data science, including deploying an AI tutor for DSC
 10 and building a dashboard for instructors to understand student chatbot logs.
+
+{% endcomment %}
