@@ -4,10 +4,12 @@ title: The Data Science Teaching and Learning Lab
 permalink: /
 ---
 
+{% comment %}
 Undergraduate or Masters student at UCSD? Join our lab!
 We will host an info session on Oct 2 and applications are due 11:59pm on Oct 3.
 Please check out our [apply page](apply) for more details.
 {: .notice }
+{% endcomment %}
 
 [slides]: https://docs.google.com/presentation/d/16P53-4IwcPSB7odugjL5Os5JyOCqRlImbf6GZAYs_ao/edit?usp=sharing
 
