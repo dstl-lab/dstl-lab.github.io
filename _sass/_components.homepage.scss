@@ -9,11 +9,34 @@
   font-weight: bold;
 }
 
-.team-list {
-  list-style-type: none;
-  padding-left: 2rem;
-  margin-left: 0;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
 }
+
+.col {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.person-card {
+    padding: 20px 0px;
+    height: 320px;
+    margin: 20px 0px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 4px;
+}
+
+.person-img {
+  border-radius: 4px;
+}
+
+// .team-list {
+//   list-style-type: none;
+//   padding-left: 2rem;
+//   margin-left: 0;
+// }
 
 .apply-banner {
   text-align: center;

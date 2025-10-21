@@ -4,10 +4,12 @@ title: The Data Science Teaching and Learning Lab
 permalink: /
 ---
 
+{% comment %}
 Undergraduate or Masters student at UCSD? Join our lab!
 We will host an info session on Oct 2 and applications are due 11:59pm on Oct 3.
 Please check out our [apply page](apply) for more details.
 {: .notice }
+{% endcomment %}
 
 [slides]: https://docs.google.com/presentation/d/16P53-4IwcPSB7odugjL5Os5JyOCqRlImbf6GZAYs_ao/edit?usp=sharing
 
@@ -37,14 +39,42 @@ Tutor][pt], used by over 20,000 people per year.
 Halıcıoğlu Data Science Institute at UC San Diego and a small (but mighty!) team
 of students:
 
-<ul class="team-list">
-  <li>Devon Tao (1st year HDSI PhD)</li>
-  <li>Andrew Hudson Yang (Project Lead)</li>
-  <li>Sathvika Goriparthy (Project Lead)</li>
-  <li>Ayush Shah</li>
-  <li>Achintya Rai</li>
-  <li>Michelle Hong</li>
-</ul>
+<div class="grid">
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/devon_tao.png" width="200px">  
+  **Devon Tao**  
+  *1st year Data Science PhD*  
+  [Website](https://devontao.github.io/) 
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  **Ayush Shah**  
+  </div>
+  </div>
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  **Andrew Hudson Yang**  
+  *Project Lead*  
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  **Achintya Rai**  
+  </div>
+  </div>
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  **Sathvika Goriparthy**  
+  *Project Lead*  
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  **Michelle Hong**  
+  </div>
+  </div>
+</div>
 
 Lab alumni and former members:
 
