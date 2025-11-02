@@ -49,7 +49,12 @@ of students:
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
-  **Ayush Shah**  
+  **Minchan Kim**  
+  *Project Lead*
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
+  **Michelle Hong**  
   </div>
   </div>
   <div class="col">
@@ -60,7 +65,7 @@ of students:
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
-  **Achintya Rai**  
+  **Ayush Shah**  
   </div>
   </div>
   <div class="col">
@@ -71,7 +76,7 @@ of students:
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
-  **Michelle Hong**  
+  **Achintya Rai**  
   </div>
   </div>
 </div>
