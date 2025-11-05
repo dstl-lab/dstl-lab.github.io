@@ -78,7 +78,13 @@ of students:
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
   **Achintya Rai**  
   </div>
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/preethi_profile.png" width="200px">  
+  **Preethi Manne**  
   </div>
+  </div>
+  
 </div>
 
 Lab alumni and former members:
