@@ -78,6 +78,10 @@ of students:
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
   **Achintya Rai**  
   </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/susana-profile-image.jpg" width="200px">  
+  **Susana Haing**  
+  </div>
   </div>
 </div>
 
