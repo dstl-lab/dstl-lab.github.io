@@ -59,7 +59,7 @@ of students:
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/andrew_h_yang_pfp.png" width="200px">  
   **Andrew Hudson Yang**  
   *Project Lead*  
   </div>
