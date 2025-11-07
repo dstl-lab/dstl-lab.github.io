@@ -61,6 +61,7 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/andrew_h_yang_pfp.png" width="200px">  
   **Andrew Hudson Yang**  
+  *4th year Data Science*  
   *Project Lead*  
   </div>
   <div class="person-card">
