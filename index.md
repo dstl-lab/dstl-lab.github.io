@@ -64,7 +64,7 @@ of students:
   *Project Lead*  
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/ayush-shah.jpeg" width="200px">  
+  <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">  
   **Ayush Shah**  
   </div>
   </div>
