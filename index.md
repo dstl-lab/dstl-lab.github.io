@@ -59,9 +59,9 @@ of students:
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
-  **Andrew Hudson Yang**  
-  *Project Lead*  
+  <img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px">
+  **Andrew Hudson Yang**
+  *Project Lead*
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
@@ -70,8 +70,15 @@ of students:
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/sathvika-profile-image.jpeg" width="200px">  
-  **Sathvika Goriparthy**  
+  <img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">
+  width="200px">
+  **Thaarak Sriram**
+  *First Year Data Science Major*
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" 
+width="200px">
+  **Sathvika Goriparthy**
   *Project Lead*
   </div>
   <div class="person-card">
