@@ -79,7 +79,7 @@ of students:
   **Achintya Rai** 
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/Lauren_profile_picture.jpg" width="200px">  
   **Lauren Lee** 
   </div>
 </div>
