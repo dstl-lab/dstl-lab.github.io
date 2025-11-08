@@ -76,8 +76,11 @@ of students:
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
-  **Achintya Rai**  
+  **Achintya Rai** 
   </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">  
+  **Lauren Lee** 
   </div>
 </div>
 
