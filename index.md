@@ -80,7 +80,7 @@ of students:
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/susana-profile-image.jpg" width="200px">  
-  **Susana Haing**  
+  **Susana Haing**   
   </div>
   </div>
 </div>
