@@ -68,7 +68,6 @@ of students:
   **Ayush Shah**  
   </div>
   </div>
-  <div class="col">
   <div class="person-card">
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
   **Ella Li**  
