@@ -85,6 +85,8 @@ of students:
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
   **Ella Li**  
   </div>
+  </div>
+  </div>
 
 
 
