@@ -79,7 +79,12 @@ of students:
   **Achintya Rai**  
   </div>
   </div>
-</div>
+  </div>
+   **Ella Li**  
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
+
 
 Lab alumni and former members:
 
