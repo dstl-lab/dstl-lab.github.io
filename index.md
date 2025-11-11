@@ -82,10 +82,10 @@ of students:
   </div>
   **Ella Li**  
   </div>
-  </div>
   <div class="col">
   <div class="person-card">
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
+
 
 
 Lab alumni and former members:
