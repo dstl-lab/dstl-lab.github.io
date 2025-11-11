@@ -70,6 +70,12 @@ of students:
   </div>
   <div class="col">
   <div class="person-card">
+  <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
+  **Ella Li**  
+  </div>
+  </div>
+  <div class="col">
+  <div class="person-card">
   <img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">  
   **Sathvika Goriparthy**  
   *Project Lead*
@@ -77,12 +83,6 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
   **Achintya Rai**  
-  </div>
-  </div>
-  <div class="col">
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
-  **Ella Li**  
   </div>
   </div>
 </div>
