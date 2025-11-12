@@ -67,6 +67,10 @@ of students:
   <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">  
   **Ayush Shah**  
   </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
+  **Xinyuan(Ella) Li**
+  </div>
   </div>
   <div class="col">
   <div class="person-card">
@@ -80,6 +84,9 @@ of students:
   </div>
   </div>
 </div>
+
+
+
 
 Lab alumni and former members:
 
