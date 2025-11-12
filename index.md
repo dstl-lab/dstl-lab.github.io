@@ -79,8 +79,9 @@ of students:
   *Project Lead*
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
   **Achintya Rai**  
+  *2nd Year Computer Engineering*
   </div>
   </div>
 </div>
