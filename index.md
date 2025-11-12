@@ -80,11 +80,11 @@ of students:
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/preethi_profile.png" width="200px">  
+  <img class="person-img" src="./assets/images/preethi_profile_pic.png" width="200px">  
   **Preethi Manne**  
   </div>
   </div>
-  
+  </div>
 </div>
 
 Lab alumni and former members:
