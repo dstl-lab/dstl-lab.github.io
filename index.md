@@ -79,7 +79,7 @@ of students:
   **Achintya Rai**  
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/susana-profile-image.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/susana-profile-picture.jpg" width="200px">  
   **Susana Haing**   
   </div>
   </div>
