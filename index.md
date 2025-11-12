@@ -83,6 +83,10 @@ of students:
   **Achintya Rai**  
   *2nd Year Computer Engineering*
   </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/Lauren_profile_picture.jpg" width="200px">  
+  **Lauren Lee**  
+  [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
   </div>
 </div>
 
