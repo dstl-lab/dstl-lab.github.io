@@ -53,13 +53,13 @@ of students:
   *Project Lead*
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
+  <img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">
   **Michelle Hong**  
   </div>
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/default_person_image-pic.jpg" width="200px">  
   **Andrew Hudson Yang**  
   *Project Lead*  
   </div>
