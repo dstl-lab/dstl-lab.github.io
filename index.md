@@ -48,7 +48,7 @@ of students:
   [Website](https://devontao.github.io/) 
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/minchan_kim.png" width="200px">  
   **Minchan Kim**  
   *Project Lead*
   </div>
