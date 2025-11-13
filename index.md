@@ -87,6 +87,7 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/preethi_profile_pic.png" width="200px">  
   **Preethi Manne**  
+  [Website](https://preethim111.github.io/portfolio/)  
   </div>
   </div>
   <div class="person-card">
@@ -94,6 +95,7 @@ of students:
   **Lauren Lee**  
   [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
   </div>
+</div>
 </div>
 
 
