@@ -53,30 +53,35 @@ of students:
   *Project Lead*
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
+  <img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">
   **Michelle Hong**  
   </div>
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/default_person_image-pic.jpg" width="200px">  
   **Andrew Hudson Yang**  
   *Project Lead*  
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">  
   **Ayush Shah**  
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
+  **Xinyuan(Ella) Li**
   </div>
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/sathvika-profile-image.jpeg" width="200px">  
+  <img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">  
   **Sathvika Goriparthy**  
   *Project Lead*
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
   **Achintya Rai**  
+  *2nd Year Computer Engineering*
   </div>
   <div class="col">
   <div class="person-card">
@@ -84,8 +89,15 @@ of students:
   **Preethi Manne**  
   </div>
   </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">  
+  **Lauren Lee**  
+  [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
   </div>
 </div>
+
+
+
 
 Lab alumni and former members:
 
