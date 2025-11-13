@@ -83,6 +83,12 @@ of students:
   **Achintya Rai**  
   *2nd Year Computer Engineering*
   </div>
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/preethi_profile_pic.png" width="200px">  
+  **Preethi Manne**  
+  </div>
+  </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">  
   **Lauren Lee**  
