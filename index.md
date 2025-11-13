@@ -69,8 +69,7 @@ of students:
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
-  **Xinyuan(Ella) Li** 
-  *2nd year Data Science* 
+  **Xinyuan(Ella) Li**  
   [Website](https://ellali86.github.io/portfolio/)
   </div>
   </div>
