@@ -76,7 +76,8 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">  
   **Sathvika Goriparthy**  
-  *Project Lead*
+  *Project Lead*<br>
+  [Website](https://abhi-sathvika.github.io/personal-portfolio/)
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
@@ -95,9 +96,6 @@ of students:
   [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
   </div>
 </div>
-
-
-
 
 Lab alumni and former members:
 
