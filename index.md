@@ -55,6 +55,7 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">
   **Michelle Hong**  
+  [Website](https://seashello.github.io/portfolio/)
   </div>
   </div>
   <div class="col">
@@ -89,9 +90,6 @@ of students:
   [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
   </div>
 </div>
-
-
-
 
 Lab alumni and former members:
 
