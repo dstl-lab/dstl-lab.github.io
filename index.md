@@ -50,7 +50,8 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
   **Minchan Kim**  
-  *Project Lead*
+  *Project Lead*<br>
+  [Website](https://m1nce.github.io/portfolio/)
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">
