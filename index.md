@@ -77,7 +77,7 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
   **Achintya Rai**  
-  *2nd Year Computer Engineering*
+  [Website](https://azurinine.github.io/portfolio/)
   </div>
   </div>
 </div>
