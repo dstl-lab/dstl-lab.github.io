@@ -79,8 +79,8 @@ width="200px">
   <div class="col">
   <div class="person-card">
   <img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px">
-  **Thaarak Sriram**
-  *First Year Data Science Major*
+  **Thaarak Sriram** <br>
+  [Website](https://thaarak.github.io/portfolio/)
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" 
