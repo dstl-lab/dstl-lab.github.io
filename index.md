@@ -66,6 +66,7 @@ of students:
   <div class="person-card">
   <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">  
   **Ayush Shah**  
+  [Website](https://ayush1124.github.io/portfolio/)
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
