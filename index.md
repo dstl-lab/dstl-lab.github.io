@@ -71,6 +71,10 @@ width="200px">
   **Ayush Shah**  
   </div>
   <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
+  **Steven Xu**
+  </div>
+
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
   **Xinyuan(Ella) Li**  
   [Website](https://ellali86.github.io/portfolio/)
