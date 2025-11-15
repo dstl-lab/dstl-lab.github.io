@@ -82,11 +82,6 @@ width="200px">
   [Website](https://ellali86.github.io/portfolio/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/susana-profile-picture.jpg" width="200px">  
-  **Susana Haing**  
-  [Website](https://shaing04.github.io/portfolio/)
-  </div>
-  <div class="person-card">
   <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">  
   **Lauren Lee**  
   [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
@@ -114,6 +109,11 @@ width="200px">
   <img class="person-img" src="./assets/images/preethi_profile_pic.png" width="200px">  
   **Preethi Manne**  
   [Website](https://preethim111.github.io/portfolio/)  
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/susana-profile-picture.jpg" width="200px">  
+  **Susana Haing**  
+  [Website](https://shaing04.github.io/portfolio/)
   </div>
   </div>
 </div>
