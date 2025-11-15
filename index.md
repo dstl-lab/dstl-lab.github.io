@@ -58,6 +58,11 @@ of students:
   **Michelle Hong**  
   [Website](https://seashello.github.io/portfolio/)
   </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">  
+  **Ayush Shah**  
+  [Website](https://ayush1124.github.io/portfolio/)
+  </div>
   </div>
   <div class="col">
   <div class="person-card">
@@ -68,35 +73,31 @@ width="200px">
   *Project Lead*  
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">  
-  **Ayush Shah**  
-  [Website](https://ayush1124.github.io/portfolio/)
-  </div>
-  <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">  
   **Steven Xu**
   </div>
-
+  <div class="person-card">
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
   **Xinyuan(Ella) Li**  
   [Website](https://ellali86.github.io/portfolio/)
   </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">  
+  **Lauren Lee**  
+  [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
+  </div>
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px">
-  **Thaarak Sriram**
-  *First Year Data Science Major*
-  </div>
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" 
-width="200px">
-  **Sathvika Goriparthy**
-  *Project Lead*
   <img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">  
   **Sathvika Goriparthy**  
   *Project Lead*<br>
   [Website](https://abhi-sathvika.github.io/personal-portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px">
+  **Thaarak Sriram**
+  *First Year Data Science Major*
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
@@ -110,11 +111,7 @@ width="200px">
   [Website](https://preethim111.github.io/portfolio/)  
   </div>
   </div>
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">  
-  **Lauren Lee**  
-  [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
-  </div>
+</div>
 </div>
 
 Lab alumni and former members:
