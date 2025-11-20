@@ -100,14 +100,9 @@ width="200px">
   [Website](https://abhi-sathvika.github.io/personal-portfolio/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px">
-  **Thaarak Sriram**
-  *First Year Data Science Major*
-  </div>
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">
-  **Achintya Rai**
-  *2nd Year Computer Engineering*
+  <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
+  **Achintya Rai**  
+  [Website](https://azurinine.github.io/portfolio/)
   </div>
   <div class="col">
   <div class="person-card">
