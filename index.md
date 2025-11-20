@@ -80,6 +80,7 @@ width="200px">
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
   **Steven Xu**
+  [Website](https://xcysteven.github.io/personal_website/)
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
