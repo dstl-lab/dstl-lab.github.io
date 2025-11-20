@@ -40,82 +40,81 @@ Halıcıoğlu Data Science Institute at UC San Diego and a small (but mighty!) t
 of students:
 
 <div class="grid">
-<div class="col">
-<div class="person-card">
-<img class="person-img" src="./assets/images/devon_tao.png" width="200px">
-**Devon Tao**
-*1st year Data Science PhD*
-[Website](https://devontao.github.io/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
-**Minchan Kim**
-*Project Lead*<br>
-[Website](https://m1nce.github.io/portfolio/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">
-**Michelle Hong**
-[Website](https://seashello.github.io/portfolio/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">
-**Ayush Shah**
-[Website](https://ayush1124.github.io/portfolio/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/susana-profile-picture.jpg" width="200px">  
-**Susana Haing**  
-[Website](https://shaing04.github.io/portfolio/)
-</div>
-</div>
-<div class="col">
-<div class="person-card">
-<img class="person-img" src="./assets/images/andrew_profile_picture.png" width="200px">  
-**Andrew Hudson Yang**  
-*4th year Data Science*  
-*Project Lead*  
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
-**Steven Xu**
-[Website](https://xcysteven.github.io/personal_website/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
-**Xinyuan(Ella) Li**
-[Website](https://ellali86.github.io/portfolio/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">
-**Lauren Lee**
-[Website](https://laurenayako.github.io/DSC-160-Lab-1/)
-</div>
-</div>
-<div class="col">
-<div class="person-card">
-<img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">
-**Sathvika Goriparthy**
-*Project Lead*<br>
-[Website](https://abhi-sathvika.github.io/personal-portfolio/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
-**Achintya Rai**  <br>
-[Website](https://azurinine.github.io/portfolio/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/preethi_profile_pic.png" width="200px">
-**Preethi Manne** <br>
-[Website](https://preethim111.github.io/portfolio/)
-</div>
-<div class="person-card">
-<img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px" height="200px" style="object-fit: cover; object-position: center top;">
-**Thaarak Sriram** <br>
-[Website](https://thaarak.github.io/portfolio/)
-</div>
-</div>
-</div>
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/devon_tao.png" width="200px">
+  **Devon Tao**
+  *1st year Data Science PhD*
+  [Website](https://devontao.github.io/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
+  **Minchan Kim**
+  *Project Lead*<br>
+  [Website](https://m1nce.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">
+  **Michelle Hong**
+  [Website](https://seashello.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">
+  **Ayush Shah**
+  [Website](https://ayush1124.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/susana-profile-picture.jpg" width="200px">  
+  **Susana Haing**  
+  [Website](https://shaing04.github.io/portfolio/)
+  </div>
+  </div>
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/andrew_profile_picture.png" width="200px">  
+  **Andrew Hudson Yang**  
+  *4th year Data Science*  
+  *Project Lead*  
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
+  **Steven Xu**
+  [Website](https://xcysteven.github.io/personal_website/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
+  **Xinyuan(Ella) Li**
+  [Website](https://ellali86.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">
+  **Lauren Lee**
+  [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
+  </div>
+  </div>
+  <div class="col">
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">
+  **Sathvika Goriparthy**
+  *Project Lead*<br>
+  [Website](https://abhi-sathvika.github.io/personal-portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
+  **Achintya Rai**  <br>
+  [Website](https://azurinine.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/preethi_profile_pic.png" width="200px">
+  **Preethi Manne** <br>
+  [Website](https://preethim111.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px" height="200px" style="object-fit: cover; object-position: center top;">
+  **Thaarak Sriram** <br>
+  [Website](https://thaarak.github.io/portfolio/)
+  </div>
+  </div>
 </div>
 
 Special thanks to our lab alumni and former members, listed below in
