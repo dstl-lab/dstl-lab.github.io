@@ -71,11 +71,10 @@ of students:
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg"
-width="200px">
-  <img class="person-img" src="./assets/images/default_person_image-pic.jpg" width="200px">
-  **Andrew Hudson Yang**
-  *Project Lead*
+  <img class="person-img" src="./assets/images/andrew_profile_picture.png" width="200px">  
+  **Andrew Hudson Yang**  
+  *4th year Data Science*  
+  *Project Lead*  
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
