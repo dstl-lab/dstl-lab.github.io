@@ -42,77 +42,76 @@ of students:
 <div class="grid">
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/devon_tao.png" width="200px">
-  **Devon Tao**
-  *1st year Data Science PhD*
-  [Website](https://devontao.github.io/)
-  </div>
-  <div class="person-card">
   <img class="person-img" src="./assets/images/minchan_kim.png" width="200px">
-  **Minchan Kim**
+  **Minchan Kim**<br>
   *Project Lead*<br>
   [Website](https://m1nce.github.io/portfolio/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/michelle-pic.jpg" width="200px">
-  **Michelle Hong**
+  <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">
+  **Achintya Rai**<br>
+  [Website](https://azurinine.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/michelle_hong.jpg" width="200px">
+  **Michelle Hong**<br>
   [Website](https://seashello.github.io/portfolio/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">
-  **Ayush Shah**
-  [Website](https://ayush1124.github.io/portfolio/)
+  <img class="person-img" src="./assets/images/lauren_lee.jpg" width="200px">
+  **Lauren Lee**<br>
+  [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/susana-profile-picture.jpg" width="200px">  
-  **Susana Haing**  
-  [Website](https://shaing04.github.io/portfolio/)
+  <img class="person-img" src="./assets/images/austin_flippo.png" width="200px">
+  **Austin Flippo**<br>
+  [Website](https://www.linkedin.com/in/atmflippo)
   </div>
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/andrew_profile_picture.png" width="200px">  
-  **Andrew Hudson Yang**  
-  *4th year Data Science*  
-  *Project Lead*  
+  <img class="person-img" src="./assets/images/andrew_yang.png" width="200px">
+  **Andrew Hudson Yang**<br>
+  *Project Lead*<br>
+  [Website](https://www.linkedin.com/in/andrew-hyang/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/default_person_image.jpg" width="200px">
-  **Steven Xu**
+  <img class="person-img" src="./assets/images/susana_haing.jpg" width="200px">
+  **Susana Haing**<br>
+  [Website](https://shaing04.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/steven_xu.png" width="200px">
+  **Steven Xu**<br>
   [Website](https://xcysteven.github.io/personal_website/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/ella-photo.jpg" width="200px">
-  **Xinyuan(Ella) Li**
-  [Website](https://ellali86.github.io/portfolio/)
-  </div>
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/lauren_profile_picture.jpg" width="200px">
-  **Lauren Lee**
-  [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
+  <img class="person-img" src="./assets/images/thaarak_sriram.jpg" width="200px" height="200px" style="object-fit: cover; object-position: center top;">
+  **Thaarak Sriram**<br>
+  [Website](https://thaarak.github.io/portfolio/)
   </div>
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/sathvika-profile-image.jpg" width="200px">
-  **Sathvika Goriparthy**
+  <img class="person-img" src="./assets/images/sathvika_goriparthy.jpg" width="200px">
+  **Sathvika Goriparthy**<br>
   *Project Lead*<br>
   [Website](https://abhi-sathvika.github.io/personal-portfolio/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/achintya_rai.jpg" width="200px">  
-  **Achintya Rai**  <br>
-  [Website](https://azurinine.github.io/portfolio/)
+  <img class="person-img" src="./assets/images/ayush_shah.jpeg" width="200px">
+  **Ayush Shah**<br>
+  [Website](https://ayush1124.github.io/portfolio/)
   </div>
   <div class="person-card">
-  <img class="person-img" src="./assets/images/preethi_profile_pic.png" width="200px">
-  **Preethi Manne** <br>
+  <img class="person-img" src="./assets/images/xinyuan_li.jpg" width="200px">
+  **Xinyuan(Ella) Li**<br>
+  [Website](https://ellali86.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/preethi_manne.png" width="200px">
+  **Preethi Manne**<br>
   [Website](https://preethim111.github.io/portfolio/)
-  </div>
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/thaarak-profile-image.jpg" width="200px" height="200px" style="object-fit: cover; object-position: center top;">
-  **Thaarak Sriram** <br>
-  [Website](https://thaarak.github.io/portfolio/)
   </div>
   </div>
 </div>
@@ -123,10 +122,10 @@ alphabetical order along with their first position after graduating UCSD.
 <ul class="team-list">
   <li>Christopher Lum – Caesar's Entertainment</li>
   <li>Gabriel Cha – MS at Columbia University</li>
-  <li>Guoxuan (Jason) Xu</li>
+  <li>Guoxuan (Jason) Xu - MS at Stanford University</li>
   <li>Owen Miller</li>
   <li>Parna Praveen – AWS</li>
-  <li>Qirui (Sara) Zheng</li>
+  <li>Qirui (Sara) Zheng - MS at Stanford University</li>
   <li>Ylesia (Yi Xing) Wu – MS at Harvard University</li>
 </ul>
 
