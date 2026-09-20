@@ -2,6 +2,8 @@
   <nav class="site-nav">
     <a href="/" class="nav__item">DSTL LAB</a>
     <div class="nav__spacer">//</div>
+    <a href="/blog/" class="nav__item"{% if page.url contains '/blog/' %} aria-current="{% if page.url == '/blog/' %}page{% else %}location{% endif %}"{% endif %}>blog</a>
+    <div class="nav__spacer">//</div>
     <a href="/apply" class="nav__item">apply</a>
   </nav>
 </header>

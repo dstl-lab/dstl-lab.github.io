@@ -24,7 +24,11 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: "/:categories/:title"
+      layout: post
+      permalink: "/blog/:title/"
+
+exclude:
+  - scripts
 
 collections:
   projects:
