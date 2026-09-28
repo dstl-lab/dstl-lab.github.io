@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400">
+  <rect width="720" height="400" fill="#f0f3f5"/>
+  <path d="M0 80H720M0 160H720M0 240H720M0 320H720M80 0V400M160 0V400M240 0V400M320 0V400M400 0V400M480 0V400M560 0V400M640 0V400" stroke="#e2e8ec"/>
+  <g fill="none" stroke="#2170ce" stroke-width="3">
+    <path d="M220 188H278m-10-8 10 8-10 8M442 188H500m-10-8 10 8-10 8"/>
+  </g>
+  <g fill="#fff" stroke="#becbd5" stroke-width="2">
+    <rect x="64" y="102" width="156" height="166" rx="4"/>
+    <rect x="282" y="102" width="156" height="166" rx="4"/>
+    <rect x="500" y="102" width="156" height="166" rx="4"/>
+  </g>
+  <g fill="none" stroke="#24446a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101 148h51m-51 22h78m-78 22h63m-63 22h35"/>
+    <path d="m153 226 7-24 29-29 17 17-29 29-24 7m7-24 17 17" fill="#edf4fc"/>
+    <path d="M316 147h88v57h-38l-22 20v-20h-28z" fill="#edf4fc"/>
+    <path d="m342 174 12 12 24-26" stroke="#2170ce"/>
+    <path d="M531 141h94v85h-94z"/>
+    <path d="M531 161h94m-79 17h34m-34 17h63m-63 14h46"/>
+  </g>
+  <g fill="#233947" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22" text-anchor="middle">
+    <text x="142" y="309">Write</text>
+    <text x="360" y="309">Review</text>
+    <text x="578" y="309">Share</text>
+  </g>
+</svg>

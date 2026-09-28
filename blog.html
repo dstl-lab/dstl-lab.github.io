@@ -1,0 +1,63 @@
+---
+layout: post
+title: Blog
+permalink: /blog/
+---
+
+<div class="grid blog-grid">
+{% for post in site.posts %}
+<article class="blog-entry">
+  <a class="blog-entry__link" href="{{ post.url | relative_url }}">
+    {% if post.cover %}
+    <img class="blog-entry__cover" src="{{ post.cover | relative_url | escape }}" alt="{{ post.cover_alt | escape }}" width="720" height="400" loading="lazy">
+    {% endif %}
+    <div class="blog-entry__body">
+      {% if post.topic %}<p class="blog-entry__topic">{{ post.topic | escape }}</p>{% endif %}
+      <h2>{{ post.title | escape }}</h2>
+      <p class="blog-entry__summary">{{ post.excerpt | strip_html | escape }}</p>
+    </div>
+  </a>
+  <div class="blog-entry__meta">
+    {% assign author = site.data.blog_authors[post.author_id] %}
+    {% if author %}
+    <details class="author-profile">
+      <summary aria-label="About {{ post.author | escape }}">
+        <img src="{{ author.photo | relative_url | escape }}" alt="" width="32" height="32" loading="lazy">
+        <span>{{ post.author | escape }}</span>
+      </summary>
+      <div class="author-profile__popup">
+        <img src="{{ author.photo | relative_url | escape }}" alt="{{ post.author | escape }}" width="64" height="64" loading="lazy">
+        <strong>{{ post.author | escape }}</strong>
+        <span class="author-profile__role">{{ author.role | escape }}</span>
+        <p>{{ author.bio | escape }}</p>
+        {% if author.website %}<a href="{{ author.website | escape }}">Visit website</a>{% endif %}
+      </div>
+    </details>
+    {% else %}
+    <span>{{ post.author | escape }}</span>
+    {% endif %}
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+  </div>
+</article>
+{% else %}
+<p>Posts are coming soon.</p>
+{% endfor %}
+</div>
+
+<script>
+  const profiles = document.querySelectorAll('.author-profile');
+  profiles.forEach(profile => {
+    profile.addEventListener('mouseleave', () => delete profile.dataset.dismissed);
+    profile.addEventListener('toggle', () => {
+      if (!profile.open) profile.dataset.dismissed = '';
+    });
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key !== 'Escape') return;
+    profiles.forEach(profile => {
+      if (profile.contains(document.activeElement)) profile.querySelector('summary').focus();
+      profile.open = false;
+      profile.dataset.dismissed = '';
+    });
+  });
+</script>
