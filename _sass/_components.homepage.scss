@@ -12,18 +12,22 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
+  gap: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
 
 .col {
+  display: grid;
+  align-content: start;
+  gap: $spacing-unit;
   text-align: center;
   box-sizing: border-box;
 }
 
 .person-card {
-    padding: 20px 0px;
+    padding: $spacing-unit 0;
     height: 320px;
-    margin: 20px 0px;
+    margin: 0;
     background-color: rgb(240, 240, 240);
     border-radius: 4px;
 }
