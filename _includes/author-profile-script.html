@@ -1,7 +1,14 @@
 <script>
   const profiles = document.querySelectorAll('.author-profile');
   profiles.forEach(profile => {
-    profile.addEventListener('mouseleave', () => delete profile.dataset.dismissed);
+    profile.addEventListener('pointerenter', event => {
+      if (event.pointerType === 'mouse') delete profile.dataset.dismissed;
+    });
+    profile.addEventListener('pointerleave', event => {
+      if (event.pointerType !== 'mouse') return;
+      if (profile.contains(document.activeElement)) profile.querySelector('summary').focus();
+      profile.open = false;
+    });
     profile.addEventListener('toggle', () => {
       if (!profile.open) profile.dataset.dismissed = '';
     });
