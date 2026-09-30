@@ -1,0 +1,10 @@
+<div class="post-collaborators" role="group" aria-label="Collaborators">
+  <span class="post-collaborators__label">Collaborators</span>
+  <div class="post-collaborators__people">
+    {% for id in include.people %}
+    {% assign collaborator = site.data.blog_authors[id] %}
+    {% assign collaborator_name = collaborator.name | default: id %}
+    {% include author-profile.html id=id name=collaborator_name %}
+    {% endfor %}
+  </div>
+</div>

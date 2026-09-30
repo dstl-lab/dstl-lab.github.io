@@ -1,0 +1,17 @@
+<script>
+  const profiles = document.querySelectorAll('.author-profile');
+  profiles.forEach(profile => {
+    profile.addEventListener('mouseleave', () => delete profile.dataset.dismissed);
+    profile.addEventListener('toggle', () => {
+      if (!profile.open) profile.dataset.dismissed = '';
+    });
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key !== 'Escape') return;
+    profiles.forEach(profile => {
+      if (profile.contains(document.activeElement)) profile.querySelector('summary').focus();
+      profile.open = false;
+      profile.dataset.dismissed = '';
+    });
+  });
+</script>

@@ -3,3 +3,16 @@ minchan-kim:
   role: Project Lead
   bio: Project lead at the Data Science Teaching and Learning Lab at UC San Diego.
   website: https://m1nce.github.io/portfolio/
+
+steven-xu:
+  name: Steven Xu
+  photo: /assets/images/steven_xu.png
+  role: Lab Member
+  bio: Member of the Data Science Teaching and Learning Lab at UC San Diego.
+  website: https://xcysteven.github.io/personal_website/
+austin-flippo:
+  name: Austin Flippo
+  photo: /assets/images/austin_flippo.png
+  role: Lab Member
+  bio: Member of the Data Science Teaching and Learning Lab at UC San Diego.
+  website: https://www.linkedin.com/in/atmflippo

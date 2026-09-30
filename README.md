@@ -41,6 +41,10 @@ The Data Science Teaching and Learning Lab (DSTL, pronounced “distill”) at U
    For a photo and expandable author profile, add a member entry to
    `_data/blog_authors.yml` with `photo`, `role`, `bio`, and an optional
    `website`, then reference its key with `author_id: minchan-kim` in the post.
+   Add `collaborators: [steven-xu, austin-flippo]` to credit collaborators on
+   the article, with a “+ N more” count on the blog card. Each key refers to an entry in `_data/blog_authors.yml`
+   with a `name`, photo, role, and bio. Author and collaborator profiles open on
+   hover, click, tap, or keyboard activation.
    Keep `author` as the display name. The profile opens on hover or by activating
    the author's name with a click, tap, or keyboard. Omit `author_id` for a
    plain byline (including a post with multiple authors).
