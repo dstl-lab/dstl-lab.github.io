@@ -154,14 +154,16 @@
 }
 
 .post-meta__byline {
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
   gap: 12px;
   margin: $spacing-unit 0;
   @include font-size(14px);
 
   img { border-radius: 50%; object-fit: cover; }
-  time { display: block; @include font-size(12px); }
+  time { grid-column: 1 / -1; grid-row: 2; display: block; @include font-size(12px); }
+  > .post-collaborators { grid-column: 2; grid-row: 1; }
 }
 
 .post__back {
@@ -236,4 +238,41 @@
       margin-left: $spacing-unit;
     }
   }
+}
+
+.post-collaborators {
+  font-size: 14px;
+}
+
+.post-collaborators__label {
+  display: block;
+  margin-bottom: $spacing-unit--small;
+  font-size: 12px;
+}
+
+.post-collaborators__people {
+  display: flex;
+
+  .author-profile + .author-profile { margin-left: -8px; }
+  .author-profile:hover,
+  .author-profile:focus-within,
+  .author-profile[open] { z-index: 3; }
+  summary { border-radius: 50%; border: 2px solid $color-white; }
+  summary span { display: none; }
+}
+
+.blog-entry__authors {
+  display: flex;
+  align-items: center;
+  gap: $spacing-unit--tiny;
+}
+
+.blog-post .author-profile__popup {
+  top: 100%;
+  bottom: auto;
+}
+
+.blog-post .post-collaborators {
+  .post-collaborators__label { display: none; }
+  .author-profile__popup { left: auto; right: 0; }
 }

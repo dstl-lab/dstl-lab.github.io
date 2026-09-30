@@ -1,0 +1,18 @@
+    {% assign author = site.data.blog_authors[include.id] %}
+    {% if author %}
+    <details class="author-profile">
+      <summary aria-label="About {{ include.name | escape }}">
+        <img src="{{ author.photo | relative_url | escape }}" alt="" width="32" height="32" loading="lazy">
+        <span>{{ include.name | escape }}</span>
+      </summary>
+      <div class="author-profile__popup">
+        <img src="{{ author.photo | relative_url | escape }}" alt="{{ include.name | escape }}" width="64" height="64" loading="lazy">
+        <strong>{{ include.name | escape }}</strong>
+        <span class="author-profile__role">{{ author.role | escape }}</span>
+        <p>{{ author.bio | escape }}</p>
+        {% if author.website %}<a href="{{ author.website | escape }}">Visit website</a>{% endif %}
+      </div>
+    </details>
+    {% else %}
+    <span>{{ include.name | escape }}</span>
+    {% endif %}

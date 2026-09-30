@@ -10,13 +10,12 @@ layout: default
       <h1 class="post-meta__title">{{ page.title | escape }}</h1>
 
       {% if page.collection == 'posts' %}
-      {% assign author = site.data.blog_authors[page.author_id] %}
       <div class="post-meta__byline">
-        {% if author.photo %}<img src="{{ author.photo | relative_url | escape }}" alt="" width="40" height="40">{% endif %}
-        <div>
-          <span>{{ page.author | escape }}</span>
-          <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-        </div>
+        {% include author-profile.html id=page.author_id name=page.author %}
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% if page.collaborators %}
+        {% include collaborators.html people=page.collaborators %}
+        {% endif %}
       </div>
       {% endif %}
 
@@ -54,3 +53,5 @@ layout: default
 </main>
 
 {%- include footer.html -%}
+
+{% if page.collection == 'posts' %}{% include author-profile-script.html %}{% endif %}
