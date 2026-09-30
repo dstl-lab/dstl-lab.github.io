@@ -164,6 +164,7 @@
   img { border-radius: 50%; object-fit: cover; }
   time { grid-column: 1 / -1; grid-row: 2; display: block; @include font-size(12px); }
   > .post-collaborators { grid-column: 2; grid-row: 1; }
+  > .author-profile { justify-self: start; }
 }
 
 .post__back {
