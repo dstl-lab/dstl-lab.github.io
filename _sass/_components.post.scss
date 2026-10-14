@@ -121,12 +121,9 @@
     object-fit: cover;
   }
 
+  // Let display control the popup so Safari repaints it when details closes.
+  &::details-content { content-visibility: visible; }
   &[open] > .author-profile__popup { display: block; }
-
-  @media (hover: hover) {
-    &:not([data-dismissed]):hover::details-content { content-visibility: visible; }
-    &:not([data-dismissed]):hover > .author-profile__popup { display: block; }
-  }
 }
 
 .author-profile__popup {
