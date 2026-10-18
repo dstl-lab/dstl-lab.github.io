@@ -16,3 +16,24 @@ austin-flippo:
   role: Lab Member
   bio: Member of the Data Science Teaching and Learning Lab at UC San Diego.
   website: https://www.linkedin.com/in/atmflippo
+
+susana-haing:
+  name: Susana Haing
+  photo: /assets/images/susana_haing.jpg
+  role: Project Lead
+  bio: Project Lead at the Data Science Teaching and Learning lab at UC San Diego.
+  website: https://www.linkedin.com/in/susana-haing
+
+lauren-lee:
+  name: Lauren Lee
+  photo: /assets/images/lauren_lee.jpg
+  role: Lab Member
+  bio: Member of the Data Science Teaching an Learning Lab at UC San Diego.
+  website: https://laurenayako.github.io/DSC-160-Lab-1/
+
+thaarak-sriram:
+  name: Thaarak Sriram
+  photo: /assets/images/thaarak_sriram.jpg
+  role: Lab Member
+  bio: Member of the Data Science Teaching and Learning Lab at UC San Diego.
+  website: https://thaarak.github.io/portfolio/
