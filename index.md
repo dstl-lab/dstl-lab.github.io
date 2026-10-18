@@ -62,23 +62,13 @@ of students:
   **Lauren Lee**<br>
   [Website](https://laurenayako.github.io/DSC-160-Lab-1/)
   </div>
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/austin_flippo.png" width="200px">
-  **Austin Flippo**<br>
-  [Website](https://www.linkedin.com/in/atmflippo)
-  </div>
   </div>
   <div class="col">
   <div class="person-card">
-  <img class="person-img" src="./assets/images/andrew_yang.png" width="200px">
-  **Andrew Hudson Yang**<br>
-  *Project Lead*<br>
-  [Website](https://www.linkedin.com/in/andrew-hyang/)
-  </div>
-  <div class="person-card">
   <img class="person-img" src="./assets/images/susana_haing.jpg" width="200px">
   **Susana Haing**<br>
-  [Website](https://shaing04.github.io/portfolio/)
+  *Project Lead*<br>
+  [Website](https://www.linkedin.com/in/susana-haing)
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/steven_xu.png" width="200px">
@@ -89,6 +79,11 @@ of students:
   <img class="person-img" src="./assets/images/thaarak_sriram.jpg" width="200px" height="200px" style="object-fit: cover; object-position: center top;">
   **Thaarak Sriram**<br>
   [Website](https://thaarak.github.io/portfolio/)
+  </div>
+  <div class="person-card">
+  <img class="person-img" src="./assets/images/austin_flippo.png" width="200px">
+  **Austin Flippo**<br>
+  [Website](https://www.linkedin.com/in/atmflippo)
   </div>
   </div>
   <div class="col">
@@ -105,13 +100,8 @@ of students:
   </div>
   <div class="person-card">
   <img class="person-img" src="./assets/images/xinyuan_li.jpg" width="200px">
-  **Xinyuan(Ella) Li**<br>
+  **Xinyuan (Ella) Li**<br>
   [Website](https://ellali86.github.io/portfolio/)
-  </div>
-  <div class="person-card">
-  <img class="person-img" src="./assets/images/preethi_manne.png" width="200px">
-  **Preethi Manne**<br>
-  [Website](https://preethim111.github.io/portfolio/)
   </div>
   </div>
 </div>
@@ -120,12 +110,14 @@ Special thanks to our lab alumni and former members, listed below in
 alphabetical order along with their first position after graduating UCSD.
 
 <ul class="team-list">
+  <li>Andrew Hudson Yang – MS at Stanford University</li>
   <li>Christopher Lum – Caesar's Entertainment</li>
   <li>Gabriel Cha – MS at Columbia University</li>
-  <li>Guoxuan (Jason) Xu - MS at Stanford University</li>
+  <li>Guoxuan (Jason) Xu – MS at Stanford University</li>
   <li>Owen Miller</li>
   <li>Parna Praveen – AWS</li>
-  <li>Qirui (Sara) Zheng - MS at Stanford University</li>
+  <li>Preethi Manne</li>
+  <li>Qirui (Sara) Zheng – MS at Stanford University</li>
   <li>Ylesia (Yi Xing) Wu – MS at Harvard University</li>
 </ul>
 
