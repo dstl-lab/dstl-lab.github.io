@@ -52,12 +52,12 @@ Dir.mktmpdir('dstl-blog-check') do |dir|
   abort 'Posts without a cover should not render a broken image' unless blog.css('.blog-entry').last.css('img').empty?
   article = Nokogiri::HTML(File.read(File.join(destination, 'blog/newer/index.html')))
   abort 'Missing article byline or date' unless article.text.include?('Second Author') && article.at_css('time[datetime^="2024-02-01T"]')
-  credits = article.at_css('.post-collaborators')
+  credits = article.at_css('.post-meta__authors')
   abort 'Missing collaborator profile or fallback credit' unless credits&.at_css('details.author-profile summary img') && credits.text.include?('guest')
   abort 'Missing collaborator count on card' unless blog.at_css('.blog-entry__authors').text.include?('+ 2 more')
   abort 'Unexpected collaborators on card without collaborators' if blog.css('.blog-entry__authors').last.text.include?('more')
   abort 'Collaborator avatars should only appear in articles' if blog.at_css('.post-collaborators')
-  abort 'Article author must have an expandable profile' unless article.at_css('.post-meta__byline > details.author-profile')
+  abort 'Article author must have an expandable profile' unless article.at_css('.post-meta__authors > details.author-profile')
   abort 'Missing article author photo' unless article.at_css('.post-meta__byline img[src="/assets/images/second.jpg"]')
   abort 'Missing return link' unless article.at_css('.post__back[href="/blog/"]')&.text == 'Back to blog'
   abort 'Missing resource link' unless article.at_css('.post-meta__links a[href="https://example.test/code"]')&.text == 'Code'

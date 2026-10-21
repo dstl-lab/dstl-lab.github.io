@@ -11,11 +11,15 @@ layout: default
 
       {% if page.collection == 'posts' %}
       <div class="post-meta__byline">
-        {% include author-profile.html id=page.author_id name=page.author %}
+        <div class="post-meta__authors" role="group" aria-label="Authors">
+          {% include author-profile.html id=page.author_id name=page.author %}
+          {% for id in page.collaborators %}
+          {% assign collaborator = site.data.blog_authors[id] %}
+          {% assign collaborator_name = collaborator.name | default: id %}
+          {% include author-profile.html id=id name=collaborator_name %}
+          {% endfor %}
+        </div>
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-        {% if page.collaborators %}
-        {% include collaborators.html people=page.collaborators %}
-        {% endif %}
       </div>
       {% endif %}
 
