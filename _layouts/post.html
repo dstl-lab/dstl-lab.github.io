@@ -11,11 +11,32 @@ layout: default
 
       {% if page.collection == 'posts' %}
       <div class="post-meta__byline">
-        {% include author-profile.html id=page.author_id name=page.author %}
+        <div class="post-meta__authors" role="group" aria-label="Authors">
+          {% capture author_photos %}
+          {% assign main_author = site.data.blog_authors[page.author_id] %}
+          {% if main_author.photo %}<img src="{{ main_author.photo | relative_url | escape }}" alt="" width="32" height="32">{% endif %}
+          {% assign photo_separator_shown = false %}
+          {% for id in page.collaborators %}
+          {% assign member = site.data.blog_authors[id] %}
+          {% if member.photo %}
+          {% if main_author.photo and photo_separator_shown == false %}<span>+</span>{% assign photo_separator_shown = true %}{% endif %}
+          <img src="{{ member.photo | relative_url | escape }}" alt="" width="32" height="32">
+          {% endif %}
+          {% endfor %}
+          {% endcapture %}
+          {% assign author_photos = author_photos | strip %}
+          {% if author_photos != empty %}
+          <span class="post-meta__avatars" aria-hidden="true">{{ author_photos }}<span>;</span></span>
+          {% endif %}
+          {% include author-profile.html id=page.author_id name=page.author %}
+          {% for id in page.collaborators %}
+          {% assign collaborator = site.data.blog_authors[id] %}
+          {% assign collaborator_name = collaborator.name | default: id %}
+          <span class="post-meta__separator{% unless forloop.first %} post-meta__separator--comma{% endunless %}" aria-hidden="true">{% if forloop.first %}+{% else %},{% endif %}</span>
+          {% include author-profile.html id=id name=collaborator_name %}
+          {% endfor %}
+        </div>
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-        {% if page.collaborators %}
-        {% include collaborators.html people=page.collaborators %}
-        {% endif %}
       </div>
       {% endif %}
 
