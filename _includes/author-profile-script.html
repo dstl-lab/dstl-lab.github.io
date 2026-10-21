@@ -2,15 +2,12 @@
   const profiles = document.querySelectorAll('.author-profile');
   profiles.forEach(profile => {
     profile.addEventListener('pointerenter', event => {
-      if (event.pointerType === 'mouse') delete profile.dataset.dismissed;
+      if (event.pointerType === 'mouse') profile.open = true;
     });
     profile.addEventListener('pointerleave', event => {
       if (event.pointerType !== 'mouse') return;
       if (profile.contains(document.activeElement)) profile.querySelector('summary').focus();
       profile.open = false;
-    });
-    profile.addEventListener('toggle', () => {
-      if (!profile.open) profile.dataset.dismissed = '';
     });
   });
   document.addEventListener('keydown', event => {
@@ -18,7 +15,6 @@
     profiles.forEach(profile => {
       if (profile.contains(document.activeElement)) profile.querySelector('summary').focus();
       profile.open = false;
-      profile.dataset.dismissed = '';
     });
   });
 </script>
