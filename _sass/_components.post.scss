@@ -254,12 +254,13 @@
 .post-collaborators__people {
   display: flex;
 
-  .author-profile + .author-profile { margin-left: -8px; }
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 12px 20px;
   .author-profile:hover,
   .author-profile:focus-within,
   .author-profile[open] { z-index: 3; }
-  summary { border-radius: 50%; border: 2px solid $color-white; }
-  summary span { display: none; }
+
 }
 
 .blog-entry__authors {
@@ -276,4 +277,15 @@
 .blog-post .post-collaborators {
   .post-collaborators__label { display: none; }
   .author-profile__popup { left: auto; right: 0; }
+}
+
+@media (max-width: 600px) {
+  .post-meta__byline {
+    grid-template-columns: minmax(0, 1fr);
+    > .post-collaborators { grid-column: 1; grid-row: 2; }
+    time { grid-row: 3; }
+  }
+
+  .post-collaborators__people { justify-content: flex-start; }
+  .blog-post .post-collaborators .author-profile__popup { left: 0; right: auto; }
 }
