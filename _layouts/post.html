@@ -12,10 +12,23 @@ layout: default
       {% if page.collection == 'posts' %}
       <div class="post-meta__byline">
         <div class="post-meta__authors" role="group" aria-label="Authors">
+          {% capture author_photos %}
+          {% assign main_author = site.data.blog_authors[page.author_id] %}
+          {% if main_author.photo %}<img src="{{ main_author.photo | relative_url | escape }}" alt="" width="32" height="32">{% endif %}
+          {% for id in page.collaborators %}
+          {% assign member = site.data.blog_authors[id] %}
+          {% if member.photo %}<img src="{{ member.photo | relative_url | escape }}" alt="" width="32" height="32">{% endif %}
+          {% endfor %}
+          {% endcapture %}
+          {% assign author_photos = author_photos | strip %}
+          {% if author_photos != empty %}
+          <span class="post-meta__avatars" aria-hidden="true">{{ author_photos }}<span>;</span></span>
+          {% endif %}
           {% include author-profile.html id=page.author_id name=page.author %}
           {% for id in page.collaborators %}
           {% assign collaborator = site.data.blog_authors[id] %}
           {% assign collaborator_name = collaborator.name | default: id %}
+          <span class="post-meta__separator{% unless forloop.first %} post-meta__separator--comma{% endunless %}" aria-hidden="true">{% if forloop.first %}+{% else %},{% endif %}</span>
           {% include author-profile.html id=id name=collaborator_name %}
           {% endfor %}
         </div>

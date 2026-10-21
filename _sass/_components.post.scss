@@ -165,14 +165,23 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8px 20px;
+  gap: 8px;
 
+  .post-meta__separator--comma { margin-left: -8px; }
   .author-profile { position: static; }
   summary { @include font-size(16px); @include font-weight(semibold); }
   summary > img { display: none; }
   .author-profile:hover,
   .author-profile:focus-within,
   .author-profile[open] { z-index: 3; }
+}
+
+.post-meta__avatars {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+
+  img { border-radius: 50%; object-fit: cover; }
 }
 
 .post__back {
