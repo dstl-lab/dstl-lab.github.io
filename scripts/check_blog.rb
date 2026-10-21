@@ -54,6 +54,7 @@ Dir.mktmpdir('dstl-blog-check') do |dir|
   abort 'Missing article byline or date' unless article.text.include?('Second Author') && article.at_css('time[datetime^="2024-02-01T"]')
   credits = article.at_css('.post-meta__authors')
   abort 'Missing collaborator profile or fallback credit' unless credits&.at_css('details.author-profile summary img') && credits.text.include?('guest')
+  abort 'Missing photo group separator' unless article.at_css('.post-meta__avatars').text.count('+') == 1
   abort 'Missing grouped author photos' unless article.css('.post-meta__avatars img').length == 2
   abort 'Missing collaborator count on card' unless blog.at_css('.blog-entry__authors').text.include?('+ 2 more')
   abort 'Unexpected collaborators on card without collaborators' if blog.css('.blog-entry__authors').last.text.include?('more')

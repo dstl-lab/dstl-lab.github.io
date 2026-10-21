@@ -15,9 +15,13 @@ layout: default
           {% capture author_photos %}
           {% assign main_author = site.data.blog_authors[page.author_id] %}
           {% if main_author.photo %}<img src="{{ main_author.photo | relative_url | escape }}" alt="" width="32" height="32">{% endif %}
+          {% assign photo_separator_shown = false %}
           {% for id in page.collaborators %}
           {% assign member = site.data.blog_authors[id] %}
-          {% if member.photo %}<img src="{{ member.photo | relative_url | escape }}" alt="" width="32" height="32">{% endif %}
+          {% if member.photo %}
+          {% if main_author.photo and photo_separator_shown == false %}<span>+</span>{% assign photo_separator_shown = true %}{% endif %}
+          <img src="{{ member.photo | relative_url | escape }}" alt="" width="32" height="32">
+          {% endif %}
           {% endfor %}
           {% endcapture %}
           {% assign author_photos = author_photos | strip %}
